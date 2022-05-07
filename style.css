@@ -1,0 +1,89 @@
+/* * {
+    margin:0px;
+    padding: 0px;
+}
+    body{
+    /* background-image: url("fondo.png");
+    background-color:#caf0f8;
+    width: 100%;
+    height: 100%;
+    font-family:'Poppins';
+    color: #023e8a;
+    }
+ main{
+    width: 100%;
+    height: 100%;
+    
+    
+    background-color:#caf0f8;
+    }
+header{
+    background-color:#00b4d8;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+    
+}
+.logo{
+    background-color: #00b4d8;
+    
+}
+.titulo{
+    color:#03045e;
+    
+    text-align: center;
+    
+}
+.navegacion{
+  
+    align-content: center;
+    justify-content: center;
+        }
+    .navegacion a{
+    text-decoration: none;
+    color:darkblue;
+    margin-right: 5px;
+    font-size: large;
+      
+   }
+   .navegacion a:hover{
+       color:orange;
+       font-size: large;
+       } 
+  .section1{
+      display: flex;
+      min-height: 200px;
+      align-items: center;
+      margin-left: 5px;
+      
+  }
+  .section1 div{
+      width: 50%;
+  }
+  .section1 div ul{
+      list-style-type: none;
+  } 
+   .sectiongral{
+      
+       width: 100%;
+       text-align: center;
+       color: #03045e;
+   }
+ 
+footer{
+    display: flex;
+    justify-content: space-between;
+    
+    flex-direction:row;
+    
+    min-height: 100px;
+    align-items: center;
+    background-color: #0096c7;
+}
+footer div{
+    width: 50%;
+} 
+*/
